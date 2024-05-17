@@ -1,0 +1,13 @@
+pid1
+v
+id2,id3,id4:i;
+prid5;
+vid6:i;
+b
+id6:=id4*id4;
+s(id4/2)*2=id4t
+id3:=id3+id6;
+e
+id3:=id3-id6;
+f;
+b
